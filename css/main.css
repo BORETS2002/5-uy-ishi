@@ -1,0 +1,142 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+.head_start {
+  background: #fff;
+}
+
+.img_logo {
+  width: 264px;
+  height: 28px;
+  left: 126px;
+}
+.icons {
+  list-style: none;
+}
+.list_icon {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #555555;
+}
+.list_logo {
+  color: #2959ce;
+  text-decoration: none;
+}
+.search {
+  width: 275px;
+  height: 45px;
+  background-color: #fff;
+  list-style: none;
+}
+.edit {
+  width: 89px;
+  background-color: #7296ec;
+  color: #fff;
+  list-style: none;
+}
+.navigator {
+  width: 1200px;
+}
+.navbar {
+  color: #7f7f7f;
+  text-decoration: none;
+  font-family: "Rubik";
+  font: weight 500px;
+  list-style: none;
+  text-decoration: none;
+}
+.reklama {
+  width: 1200px;
+  height: 128px;
+  object-fit: contain;
+}
+.list_fly_brtis {
+  width: 393px;
+  height: 382px;
+  background: #f6f6f6;
+}
+.bolt_word {
+  width: 358px;
+  font-family: "Rubik";
+  font-weight: 500;
+}
+.list_fly_brtis {
+  list-style: none;
+  color: #000000;
+  list-style: none;
+}
+.small_word {
+  width: 346px;
+  height: 44px;
+
+  font-family: "Rubik";
+  font-weight: 400;
+  color: #4a4b4c;
+}
+.foto {
+  width: 359px;
+  height: 165px;
+  object-fit: contain;
+}
+.rek {
+  width: 1050px;
+  height: 100px;
+}
+.news {
+  height: 52px;
+  width: 404px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000000;
+}
+
+.lamp {
+  width: 149px;
+  height: 50px;
+  background: #f78b3b;
+  color: #fff;
+  list-style: none;
+}
+
+.world {
+  width: 83px;
+  height: 28px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+.list_itms {
+  width: 797px;
+  height: 205px;
+  background: #000000;
+}
+/* .imgtwo {
+  width: 210px;
+  height: 165px;
+}
+.kitays_title {
+  width: 535px;
+  font-family: "Rubik";
+  font-weight: 500;
+  list-style: none;
+  color: #000000;
+  text-decoration: none;
+}
+.kitayssmalltitls {
+  width: 535px;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #4a4b4c;
+} */
