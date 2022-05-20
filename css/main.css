@@ -1,5 +1,6 @@
 body {
   font-family: "Rubik", sans-serif;
+  font-style: normal;
 }
 .head_start {
   background: #fff;
@@ -25,7 +26,7 @@ body {
 }
 .search {
   width: 275px;
-  height: 45px;
+
   background-color: #fff;
   list-style: none;
 }
@@ -51,7 +52,16 @@ body {
   height: 128px;
   object-fit: contain;
 }
+.sectwo {
+  display: flex;
+  width: 1200px;
+}
+.list_fly {
+  display: flex;
+  align-items: stretch;
+}
 .list_fly_brtis {
+  justify-content: ;
   width: 393px;
   height: 382px;
   background: #f6f6f6;
@@ -70,7 +80,6 @@ body {
   width: 346px;
   height: 44px;
 
-  font-family: "Rubik";
   font-weight: 400;
   color: #4a4b4c;
 }
@@ -86,8 +95,7 @@ body {
 .news {
   height: 52px;
   width: 404px;
-  font-family: "Rubik";
-  font-style: normal;
+
   font-weight: 500;
   font-size: 20px;
   font-weight: 500;
@@ -105,38 +113,101 @@ body {
 .world {
   width: 83px;
   height: 28px;
-  font-family: "Rubik";
-  font-style: normal;
+
   font-weight: 500;
   font-size: 24px;
   line-height: 28px;
 
   color: #000000;
 }
-
-.list_itms {
-  width: 797px;
-  height: 205px;
-  background: #000000;
+.info-two-section {
+  width: 1200px;
+  color: #000000;
 }
-/* .imgtwo {
+.sec_list {
+  list-style: none;
+}
+.sec_itms {
+  width: 797px;
+  /* height: 205px; */
+  background: #f6f6f6;
+}
+.list_itms {
+  display: flex;
+  align-items: center;
+}
+
+.imgtwo {
   width: 210px;
   height: 165px;
 }
 .kitays_title {
   width: 535px;
-  font-family: "Rubik";
   font-weight: 500;
-  list-style: none;
+  font-size: 20px;
+  line-height: 26px;
   color: #000000;
-  text-decoration: none;
 }
 .kitayssmalltitls {
   width: 535px;
-
-  font-family: "Rubik";
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
+  line-height: 22px;
   color: #4a4b4c;
-} */
+}
+.ikon-raketa {
+  display: flex;
+  align-items: center;
+}
+.small_titls_logo {
+  display: flex;
+  align-items: center;
+}
+
+.main-futere {
+  width: 393px;
+  height: 502px;
+  background: #f6f6f6;
+}
+.small-main-list-art {
+  list-style: none;
+  text-decoration: none;
+}
+.smal {
+  width: 311px;
+  height: 48px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  text-decoration: none;
+  color: #000000;
+}
+.hreft {
+  width: 393px;
+  height: 338px;
+  left: 927px;
+  top: 1948px;
+}
+.mainer {
+  display: flex;
+  text-align: justify;
+  align-items: stretch;
+}
+.ale {
+  display: flex;
+  justify-content: center;
+  width: 796px;
+  height: 53px;
+  left: 120px;
+
+  background: #eaeaea;
+}
+.yes {
+  width: 110px;
+  height: 19px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-decoration: none;
+  color: #000000;
+}
